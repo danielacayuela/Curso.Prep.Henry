@@ -1,0 +1,6 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for --> te permite repetir un código muchas veces y detenerlo una vez se cumpla cierta condición. Por esto, se debe especificar qué es lo que se va a repetir, en qué momento se va a detener y de a cuánto se va a aumentar la variable que estamos repitiendo.
+&&, ||, !
+    && es un operador que equivale a Y (and) y que te ayuda a determinar si las dos expresiones a comparar son verdades (arroja verdadero); o si alguna o las dos es/son falsas (arroja falso)
+    || al contratio de && es un operador que equivale a Ó (or) y que te ayuda a determinar si por lo menos alguna de las dos expresiones es verdadera (arroja verdadero); o en caso de las dos ser falsas arroja falso
+    ! es un operador que signigica No (not) Y devuelve el varlor booleano (true, false) opuesto

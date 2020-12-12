@@ -1,0 +1,10 @@
+//En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+//1.Variables - es una forma de guardar el valor de algo para poder usarlo después.
+//2.Strings - es un hilo de caracteres que van dentro de comillas.
+//3.Funciones (argumentos, return) - Una función agrupa un código para que después lo puedas utilizar cuando lo necesites.
+// - Los argumentos son variables que incluimos en la función, las cuales van a tomar un valor al momento de ser ejecutadas.
+// - Return determina el final de una función y el valor que va a mostrar la función una vez se ejecuta. 
+//Declaraciones if indica que se debe ejecutar la función si cierta condición se cumple. Al no cumplirse la condición predeterminada,  se puede indicar otra acción a ejecutar.
+//Valores booleanos (true, false) Los valores booleanos indican si se cumple o no una condición, arrojando true si sí la cumple y false en caso de no. 
+
