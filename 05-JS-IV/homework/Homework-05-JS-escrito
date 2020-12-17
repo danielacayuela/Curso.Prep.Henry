@@ -1,0 +1,10 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: son contenedores que guardan diferentes propiedades (que es el nombre que se le da a cierto dato/valor que queremos guardar para poder identificarlo más tarde), a las cuales se les define un valor. Estas propiedades se separan por medio de una , y todo el conjunto de propiedades va entre {}
+Propiedades: es la relación que hay entre una clave y un valor; la clave es el nombre con el que se va a identificar ese valor y con el que lo vamos a poder encontrar más adelante
+Métodos: Es una función, solo que al ser una propiedad de un objeto se le llama método
+Bucle for…in : este bucle permite hacer un recorrido por las diferentes clave:valor de un objeto hasta cumplir el objetivo que se le indique (teniendo en cuenta que estas clave:valor no están identificadas con un número como en los arreglos) 
+Notación de puntos vs notación de corchetes : las propiedades tienen valores a los que en algún momento vamos a querer acceder, para eso tenemos dos opciones:
+       - Notación de punto: donde ponemos el nombre del objeto y un . seguido por el nombre de la propiedad de la que queramos saber el valor   --> objeto.propiedad
+       - Notación de corchetes: es igual que la de punto pero se expresa con [] --> objeto['propiedad']
+        Lo más rápido de utilizar es el punto, sin embargo, si queremos acceder a una propiedad que es una variable debemos utilizar [] porque el punto lee la indicación de forma literal y si no hay una propiedad con el nombre exacto no trae ningún valor
