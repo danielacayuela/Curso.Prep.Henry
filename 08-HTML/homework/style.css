@@ -1,0 +1,56 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+
+#full-screen-background-image {
+    z-index: -999;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.65;
+}
+h1 {
+    color: #9e1010;
+    font-size: 45px;
+}
+h3 {
+    color: white;
+    background-color: #9e1010;
+    font-size: 30px;
+}
+
+h4 {
+    color: #9e1010;
+    font-size: 20px;
+}
+img {
+    width: 400px;
+    height: 250px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: white;
+    padding: 50px;
+    border: 10px dotted #9e1010;
+    margin: auto;
+    font-weight: bold;
+  
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+    justify-content: center;
+    
+    
+}
+.divClass {
+    text-align: center;
+    font-weight: bold;
+}

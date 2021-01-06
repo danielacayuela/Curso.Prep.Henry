@@ -1,0 +1,72 @@
+#Titulo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+}
+#Imagen {
+    float:left;
+    height: 200px;
+    margin-left: 50px;
+}
+#Intro {
+    margin-left: 270px;
+    margin-top: 50px;
+    margin-right: 150px;
+    color:#9e9696;
+    
+}
+#Educacion {
+    margin-top: 70px;
+}
+
+h3 {    
+    margin-left: 30px;
+    margin-top: 50px;
+    color:#242482;
+}
+
+.Seccion{
+    display:flex;
+    justify-content: space-between;
+    margin-right: 30px;
+    margin-left: 50px;
+    color:#3a3333;
+}
+.Descripcion{
+    margin-left: 70px;
+}
+#Habilidades{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 400px;
+}
+h1{
+    color:#242482;
+    font-size: 26px;
+}
+h2 {
+    color:#565454;
+    font-size: 20px;
+}
+h5{
+    color:#5a5454;
+    font-size: 16px;
+}
+ul{
+    color:#7b7575;
+    font-size: 14px;
+}
+p {
+    color:#7b7575;
+    font-size: 14px;
+    font-size: 18px;
+}
+body{
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 60px;
+    border: double 10px #242482;
+    padding: 30px;
+    font-family: sans-serif;
+}
